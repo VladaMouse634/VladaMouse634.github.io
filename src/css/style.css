@@ -106,7 +106,8 @@ nav{
 }
 
 .skills{
-    background:url(../img/%D1%87%D1%82%D0%BE%20%D1%8F%20%D1%83%D0%BC%D0%B5%D1%8E%20%D1%84%D0%BE%D0%BD.jpg) 50% 50%/1920px 523px no-repeat local;
+    background:url(../img/%D1%87%D1%82%D0%BE%20%D1%8F%20%D1%83%D0%BC%D0%B5%D1%8E%20%D1%84%D0%BE%D0%BD.jpg) 50% 50%/1920px  523px no-repeat local;
+    height: 199px auto;
 }
 
 .skills h2{
@@ -114,19 +115,25 @@ nav{
     text-align: center;
     width: 96px;
     font-size: 22px;
-    margin: 98px auto;
+    margin: 199px 0px 0px 908px;
     padding-bottom: 10px;
     color: #2c384a;
+}
+
+.skills_item1{
+    float: left;
+    width: 200px;
+    text-align: center;
+    margin: 147px 77px 177px 414px;
+    
 }
 
 .skills_item{
     float: left;
     width: 200px;
     text-align: center;
-    margin: 0px 36px 77px 414px;
-    
+    margin: 147px 77px 177px 0px;
 }
-
 
 .cases h2{
     border-bottom: 4px solid #d17700;
