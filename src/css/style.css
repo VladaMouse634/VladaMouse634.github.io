@@ -140,12 +140,58 @@ nav{
     text-align: center;
     width: 72px;
     font-size: 22px;
-    margin: 176px auto;
+    margin: 87px auto;
     padding-bottom: 10px;
     color: #2c384a;
 }
 
 .cases p{
-   padding-top: 110px;
-    padding-bottom: 128px;
+    padding-bottom: 38px;
+    margin: 63px 0px 0px 660px;
+}
+
+.cases img{
+    margin: 0px 0px 0px 389px;
+}
+
+.h2_1 h3{
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 21px;
+    margin: 39px 0px 0px 389px;
+}
+.h2_1 p{
+    margin: 6px 0px 0px 388px;
+}
+
+.h2_2 h3{
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 21px;
+    margin: -10px 0px 0px 389px;
+}
+
+.h2_2 a{
+    margin: 6px 0px 0px 388px;
+}
+
+.h2_3 h3{
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 21px;
+    margin: -100px 0px 0px 674px;
+}
+
+.h2_3 p{
+    margin: 15px 387px 0px 674px;
+}
+
+.h2_4{
+    margin: 15px 1330px 0px 389px;
 }
